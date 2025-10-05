@@ -36,6 +36,6 @@ If you prefer, you can contact me for any help or translation.
 4. Run the cells to reproduce the analysis and see the results.
 
 ## Credits and Data Source
-- ...
+- [Document PDF](hexad_12_analysis.pdf)
 - Analysis and development by Ricardo Tovar
 
